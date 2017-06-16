@@ -1,0 +1,27 @@
+{
+  "name": "webinize",
+  "version": "1.0.0",
+  "description": "<br> an oppinionated wrapper for babel and node-minify. <br/><br/> It accepts a single object as it's argument, with the following properties: <hr/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adammeola01/webinize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adammeola01/webinize/issues"
+  },
+  "homepage": "https://github.com/adammeola01/webinize#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "exorcist": "^0.4.0",
+    "node-minify": "^2.1.1",
+    "x-con": "^1.0.2"
+  }
+}
